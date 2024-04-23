@@ -1,0 +1,102 @@
+body {
+    background-color: #F3E5D8;
+    padding: 70px;
+    /* font-size: 1rem; */
+    font-family:  sans-serif;
+    color: #402c1f ; 
+    font-weight: 400px;
+    letter-spacing: 1px;
+}
+p {
+    font-size: 16px;
+}
+     #container{  
+        background-color: white;
+        text-align: left;
+    padding: 20px;
+    width: 55%;
+    max-width: 100%;
+    margin: auto;
+    border-radius: 9px;
+     }
+
+     #container2 {
+        background-color: #FFFFFF;
+        border-radius:  10px 10px 10px 10px;
+        padding: 2%;
+    
+
+     }
+.preparation {
+    background-color: #FEF8FC;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 9px;
+    height: 5%;
+    padding: 10px 25px;
+
+}
+
+h3 {
+    color: #912153;
+}
+    
+h2 {
+   color: #7F4F44;
+}
+    .myList {
+        text-align: left;
+        display: block;
+
+    }
+
+    .item {
+        display: flex;
+        
+    }
+    
+     .myList li {
+        line-height: 25px;
+    
+     } 
+
+      .myList li:not(:first-child) {
+        margin-top: 10px;
+      }
+     
+    
+    .nutrient {
+        
+        width: 50%;
+        display: flex;
+        align-items: flex-start;
+        
+    }
+
+    h1 {
+        color: #343232;
+        font-size: 40px;
+    }
+
+    .measurement {
+        
+        width: 50%;
+        color: #7F4F44;
+        display: flex;
+        align-items: flex-start;
+    
+    }
+   
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+      }
+
+      footer {
+        text-align: center;
+        font-style: italic;
+      }
+
+
